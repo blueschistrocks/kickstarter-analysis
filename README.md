@@ -3,7 +3,7 @@ Crowdfunding campaigns data provided by Louise was analyzed via excel filters, p
 
 ## Crowdfunding Campaign Data Analysis Based on the Theatrical Category 
 
-US campaign data was filtered by the parent category theatrical productions and further filtered by the subcategory of plays.  The funding outcomes of US crowdfunding campaigns in the theater parent category were filtered primarily by the success, failure or cancelation of their funding campaigns.  Based on a review of the data analysis a slight majority (approx. 58%) of the funding campaigns were successful in getting sufficient funding.  The data was graphed, and the chart labeled US Parent Category Outcomes is provided at this link for [Link](Outcomes-start-dates_US-theater_.png) for review. 
+US campaign data was filtered by the parent category theatrical productions and further filtered by the subcategory of plays.  The funding outcomes of US crowdfunding campaigns in the theater parent category were filtered primarily by the success, failure or cancelation of their funding campaigns.  Based on a review of the data analysis a slight majority (approx. 58%) of the funding campaigns were successful in getting sufficient funding.  The data was graphed, and the chart labeled US Parent Category Outcomes is provided at this [Link](Outcomes-start-dates_US-theater_.png) for review. 
 
 ## Crowdfunding Campaign Data Analysis Based on the Funding Launch Date
 
